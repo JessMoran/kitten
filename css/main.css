@@ -1,0 +1,12 @@
+body{
+  background-image: url("../assets/images/sunny-day.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width:100%;
+}
+
+.cat{
+  width: 500px;
+  margin-top: 40%;
+  margin-left: 30%;
+}

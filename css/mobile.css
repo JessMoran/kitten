@@ -1,0 +1,30 @@
+@media (max-width: 900px){
+  body{
+    background-image: url("../assets/images/night.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+  }
+  .cat{
+    content: url("../assets/images/kitten-small.png");
+    margin-top: 40%;
+    margin-left: 30%;
+    width: 300px;
+
+  }
+}
+
+@media (max-width: 768px){
+  body{
+    background-image: url("../assets/images/dawn.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+  }
+  .cat{
+    content: url("../assets/images/kitten-large.png");
+    margin-top: 40%;
+    margin-left: 30%;
+    width:400px;
+  }
+}
